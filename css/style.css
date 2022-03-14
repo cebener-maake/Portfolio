@@ -203,6 +203,12 @@ h4 {
   font-weight: 500;
 }
 
+h5 {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+
 .header__img {
   width: 145%;
   grid-column: 2 / 3;
